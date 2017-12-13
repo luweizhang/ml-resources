@@ -1,4 +1,4 @@
-#some simple tensorflow examples
+#some simple tensorflow examples to get the gist of how it works
 
 def linear_function():
     """
