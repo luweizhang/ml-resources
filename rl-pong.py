@@ -1,4 +1,4 @@
-""" Trains an agent with (stochastic) Policy Gradients on Pong. Uses OpenAI Gym. """
+""" Reinforcement Learning example. Trains an agent with (stochastic) Policy Gradients on Pong. Uses OpenAI Gym. """
 
 
 import numpy as np
