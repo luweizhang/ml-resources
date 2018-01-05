@@ -3,6 +3,9 @@
 ### Refer to this guide:
 https://www.tensorflow.org/install/
 
+You should make sure you have the correct NVidia drivers installed:
+- CUDA Drivers - http://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows
+- CUDNN - CUDA for Deep Neural Networks - https://developer.nvidia.com/cudnn
 
 ### Set up virtual environment for CPU Tensorflow and GPU Tensorflow
 ```
