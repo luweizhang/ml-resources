@@ -3,6 +3,8 @@
 ### Refer to this guide:
 https://www.tensorflow.org/install/
 
+
+### Set up virtual environment for CPU Tensorflow and GPU Tensorflow
 ```
 conda create --name tensorflow python=3.5
 activate tensorflow
