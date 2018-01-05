@@ -33,3 +33,13 @@ activate tensorflow-gpu
 ### Additional Notes
 - On Windows, Tensorflow 1.4 is only compatible with CUDA 8.0, not CUDA 9.X
 - Use check_version.py to check if all tensorflow components have been installed correctly.
+
+
+##### List avialable GPU's
+```
+from tensorflow.python.client import device_lib
+
+def get_available_gpus():
+    local_device_protos = device_lib.list_local_devices()
+    return [x.name for x in local_device_protos if x.device_type == 'GPU']
+```
