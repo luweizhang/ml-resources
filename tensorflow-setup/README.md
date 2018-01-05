@@ -21,6 +21,12 @@ conda install scipy
 pip install tensorflow-gpu
 ```
 
+### To activate any virtual environment:
+```
+activate tensorflow
+activate tensorflow-gpu
+```
+
 ### Additional Notes
 - On Windows, Tensorflow 1.4 is only compatible with CUDA 8.0, not CUDA 9.X
 - Use check_version.py to check if all tensorflow components have been installed correctly.
