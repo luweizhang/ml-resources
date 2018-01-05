@@ -35,7 +35,7 @@ activate tensorflow-gpu
 - Use check_version.py to check if all tensorflow components have been installed correctly.
 
 
-##### List avialable GPU's
+##### List available GPU's
 ```
 from tensorflow.python.client import device_lib
 
