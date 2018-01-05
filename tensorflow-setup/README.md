@@ -22,4 +22,4 @@ pip install tensorflow-gpu
 ```
 
 ### Additional Notes
-Tensorflow 
+Tensorflow 1.4 is only compatible with CUDA 8.0, not CUDA 9.X
