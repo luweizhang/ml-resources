@@ -1,3 +1,5 @@
+"""leverage Alexnet via transfer learning to solve a new image classification problem"""
+
 import pickle
 import time
 import tensorflow as tf
