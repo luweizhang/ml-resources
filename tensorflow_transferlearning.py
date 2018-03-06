@@ -1,4 +1,9 @@
-"""leverage Alexnet via transfer learning to solve a new image classification problem"""
+"""leverage Alexnet via transfer learning to solve a new image classification problem
+
+The final fully connected layer is replaced with a new fully connected layer.  
+The weights for AlexNet are frozen so that they do not get updated during training for the new problem.
+
+"""
 
 import pickle
 import time
