@@ -1,4 +1,4 @@
-﻿# deeplearning.ai
+# Trying to create an index of great DL resources.
 
 
 # Good Resources
