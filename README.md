@@ -1,6 +1,6 @@
 # Overview
 
-Trying to create an index of great deeping resources.
+Trying to create an index of great deep learning resources.
 
 ### Transfer Learning
 
