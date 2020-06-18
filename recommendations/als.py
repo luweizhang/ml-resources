@@ -1,3 +1,5 @@
+import numpy as np
+
 class ALS:
     """
     Train a matrix factorization model using Alternating Least Squares
