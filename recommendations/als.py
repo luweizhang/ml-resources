@@ -81,6 +81,6 @@ def plot_learning_curve(model):
     plt.legend(loc = 'best')
 
     
-als = ExplicitMF(n_iters = 100, n_factors = 40, reg = 0.01)
+als = ALS(n_iters = 100, n_factors = 40, reg = 0.01)
 als.fit(train, test)
 plot_learning_curve(als)
