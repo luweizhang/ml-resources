@@ -21,3 +21,7 @@ Trying to create an index of great deep learning resources.
 Other 
 - Lagrangians
 - r squared
+
+
+### Good books
+- Coding the Matrix
