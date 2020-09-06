@@ -18,7 +18,7 @@ Trying to create an index of great deep learning resources.
 ### Statistical tests
 - 
 
-Other 
+### Other 
 - Lagrangians
 - r squared
 
