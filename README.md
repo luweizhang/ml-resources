@@ -10,10 +10,19 @@ Trying to create an index of great deep learning resources.
 ### learning keras
 - https://machinelearningmastery.com/keras-functional-api-deep-learning/
 
+### Algorithms
+- linear regression
+- logistic regression
+- support vector machines
+- random forest
+- gradient boosting machines
+- neural network
+
 ### Concepts
 - precision vs recall
 - PCA, eigenvalues
 - r-squared
+- k-nearest-neighbors vs k-means
 
 ### Statistical tests
 - 
