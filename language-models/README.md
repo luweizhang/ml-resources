@@ -7,6 +7,7 @@
 
 ### TRANSFORMERS
 - https://jalammar.github.io/illustrated-transformer/
+- https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
 
 ### BERT / ELMO
 - https://www.youtube.com/watch?v=xI0HHN5XKDo 
