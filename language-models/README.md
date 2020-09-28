@@ -8,7 +8,7 @@
 ### TRANSFORMERS
 - https://jalammar.github.io/illustrated-transformer/
 - https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
-- http://nlp.seas.harvard.edu//2018/04/03/attention.html
+- http://nlp.seas.harvard.edu//2018/04/03/attention.html - "attention is all you need" paper
 
 ### BERT / ELMO
 - https://www.youtube.com/watch?v=xI0HHN5XKDo 
