@@ -12,3 +12,4 @@
 
 ### GPT
 - http://jalammar.github.io/illustrated-gpt2/
+- http://jalammar.github.io/how-gpt3-works-visualizations-animations/
