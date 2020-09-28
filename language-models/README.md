@@ -1,3 +1,7 @@
+### RNNs / LSTMs
+- https://www.youtube.com/watch?v=UNmqTiOnRfg
+- http://luweilikesdata.blogspot.com/2018/08/brief-intro-to-recurrent-neural-networks.html
+
 ### SEQ2SEQ
 - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
