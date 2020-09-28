@@ -1,9 +1,7 @@
 ### TRANSFORMERS
 - https://jalammar.github.io/illustrated-transformer/
 
-### ELMO
-
-### BERT
+### BERT / ELMO
 - https://www.youtube.com/watch?v=xI0HHN5XKDo 
 - http://jalammar.github.io/illustrated-bert/
 - http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
