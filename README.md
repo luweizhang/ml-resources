@@ -10,6 +10,9 @@ Trying to create an index of great deep learning resources.
 ### learning keras
 - https://machinelearningmastery.com/keras-functional-api-deep-learning/
 
+### Feature Engineering 
+- https://machinelearningmastery.com/books-on-data-cleaning-data-preparation-and-feature-engineering/
+
 ### Algorithms
 - linear regression
 - logistic regression
