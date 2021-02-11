@@ -10,3 +10,4 @@
 ## Transformers
 
 - https://www.youtube.com/watch?v=TQQlZhbC5ps
+- https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
