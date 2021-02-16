@@ -4,6 +4,9 @@ Trying to create an index of great machine learning resources.
 ### Good Resources
 - https://modelzoo.co/ - a great collection of pretrained models and instructions for implementing them in various DL libraries
 
+### Neural Networks:
+- http://neuralnetworksanddeeplearning.com/
+
 ### Optimization Algorithms:
 - http://www.fast.ai/2018/07/02/adam-weight-decay/
 
