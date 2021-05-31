@@ -6,7 +6,7 @@ Trying to create an index of great machine learning resources.
 
 ### Neural Networks:
 - http://neuralnetworksanddeeplearning.com/
--- build a neural network from first principles
+  - build a neural network from first principles
 
 ### Optimization Algorithms:
 - http://www.fast.ai/2018/07/02/adam-weight-decay/
