@@ -5,3 +5,5 @@
 
 Cross entropy loss:
 L = y*log(p) + (1-y)*log(1-p)
+
+The name "cross-entropy" comes from the fact that you are comparing across two distributions, the "true" distribution and the "predicted" distribution.  
